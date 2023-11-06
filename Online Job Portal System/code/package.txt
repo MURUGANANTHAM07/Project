@@ -1,0 +1,6 @@
+{                                         
+        
+        electricbill f=new electricbill();
+        f.setVisible(true);
+        this.setVisible(false);
+    }
